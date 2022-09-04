@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COVID-19 TRACKER</string>
+    <string name="button">Button</string>
+    <string name="content"><b> To prevent the spread of COVID-19:</b>
+
+1. Maintain a safe distance from others (at least 1 metre), even if they don’t appear to be sick.
+2. Wear a mask in public, especially indoors or when physical distancing is not possible.
+3. Choose open, well-ventilated spaces over closed ones. Open a window if indoors.
+4. Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+5. Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
+</string>
+</resources>
